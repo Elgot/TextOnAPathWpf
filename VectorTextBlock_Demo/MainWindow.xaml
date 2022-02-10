@@ -4,7 +4,6 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:l="clr-namespace:VectorTextBlock;assembly=VectorTextBlock"
-        xmlns:f="clr-namespace:FluentWpfChromes;assembly=FluentWpfChromes"
 
         mc:Ignorable="d"
         Title="MainWindow" Height="549" Width="800"
@@ -12,9 +11,6 @@
         AllowsTransparency="True"
         Background="#7F000000" Foreground="White">
 
-    <f:AcrylicChrome.AcrylicChrome>
-        <f:AcrylicChrome/>
-    </f:AcrylicChrome.AcrylicChrome>
 
     <Window.Resources>
 
